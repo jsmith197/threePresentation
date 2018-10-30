@@ -5,7 +5,7 @@
       <a class="link" href="https://github.com/404-kid/"><h2>GitHub || 404-kid/</h2></a>
       <a class="link" href="https://www.linkedin.com/in/b-sol/"><h2>Linkedin || in/b-sol/</h2></a>
       <a class="link" href="http://job-sol.surge.sh/#/"><h2>Personal Site</h2></a>
-      <h3>You can find all the examples on my GitHub</h3>
+      <a class="link" href="https://github.com/404-kid/threePresentation"><h3>You can find all the examples on my GitHub</h3></a>
     </div>
     <div class="design">
       <div class="botD">
